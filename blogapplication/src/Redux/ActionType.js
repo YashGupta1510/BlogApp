@@ -1,0 +1,8 @@
+export const MAKE_REQUEST='MAKE_REQUEST'
+export const FAIL_REQUEST='FAIL_REQUEST'
+export const GET_BLOG_LIST='GET_BLOG_LIST'
+export const DELETE_BLOG='DELETE_BLOG'
+export const ADD_BLOG='ADD_BLOG'
+export const UPDATE_BLOG='UPDATE_BLOG'
+export const GET_BLOG_OBJ='GET_BLOG_OBJ'
+export const TOGGLE_LIKE_SUCCESS = 'TOGGLE_LIKE_SUCCESS';

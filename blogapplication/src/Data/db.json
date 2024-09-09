@@ -1,0 +1,32 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "Top Gaming Laptops",
+      "category": "Electronics and Accessories",
+      "content": "Asus ROG Series ASUS has been known for its Republic of Gamers (ROG) series laptops.They provide high-performance gaming laptops with top-tier specs.The ASUS ROG Zephyrus and Strix models were particularly popular.Acer Predator Series-Acer's Predator series laptops were also well-received among gamers. The Acer Predator Helios 300 and Triton 500 were two of the notable models Lenovo Legion Series Lenovo Legion laptops have been known for their clean design and good performance. The Legion Y540 and Y740 were popular models. MSI Gaming Laptops MSI is a well-known brand in the gaming community and their laptops typically come with high-end specs suitable for gaming. Models like the MSI GS65 Stealth and GE66 Raider were top contenders.Dell Alienware Series Dell's Alienware series of laptops are designed specifically for gaming and are known for their distinctive design and high performance. The Alienware m15 and m17 were two of their flagship models",
+      "like": false
+    },
+    {
+      "id": 2,
+      "title": "Udaipur: The City of Lakes and Royal Elegance",
+      "category": "Places",
+      "content": "Nestled amidst the Aravalli Range, Udaipur is often referred to as the 'Venice of the East' and with good reason. This picturesque city in Rajasthan, India, is best known for its enchanting lakes, regal palaces, and a rich tapestry of history and culture that draws travelers from all corners of the globe.At the heart of Udaipur lies the Pichola Lake, shimmering under the golden sun, with the iconic City Palace casting its reflection upon its tranquil waters. A boat ride here, especially during sunset, is a memory many cherish for a lifetime.But Udaipur is more than just its lakes. The narrow winding streets are teeming with vibrant bazaars, where artisans craft everything from jewelry to traditional puppets. The sounds of temple bells merge harmoniously with the melodies of local folk songs.If you are a history enthusiast, Udaipur won't disappoint. The grandeur of the City Palace will leave you in awe, while the stories of the courageous Maharana Pratap at the Haldighati museum will inspire you. For those seeking a bit of serenity, the Saheliyon-ki-Bari, a garden adorned with fountains, lotus pools, and marble pavilions, offers a quiet retreat.In essence, Udaipur is a melange of rustic Rajasthan charm and the splendor of royal luxury. It's a city where every corner tells a tale, waiting to be heard and cherished. If you haven't been yet, put Udaipur on your travel bucket list. You won't regret it.",
+      "like": false
+    },
+    {
+      "id": 3,
+      "title": "Top 3 Economy of world",
+      "category": "Geopolitics",
+      "content": "1- United states \n 2- China \n 3-Japan ",
+      "like": true
+    },
+    {
+      "id": 4,
+      "title": "Richest Countries of World",
+      "category": "Geopolitics",
+      "content": "1-Ireland \n 2- Luxembourg \n 3-China ",
+      "like": false
+    }
+  ]
+}
